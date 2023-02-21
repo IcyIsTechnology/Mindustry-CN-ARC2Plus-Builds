@@ -1,6 +1,6 @@
 [
     {
-        "name": "国服服务器",
+        "name": "中国服务器",
         "address": [
             "n2.akiracloud.net:10404",
             "dc8.i8mc.cn:8920",
@@ -12,7 +12,7 @@
         ]
     },
     {
-        "name": "Not-China-Server",
+        "name": "Darkdustry",
         "address": [
             "darkdustry.net",
             "darkdustry.net:1500",
